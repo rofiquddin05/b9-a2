@@ -115,6 +115,7 @@ border: none;
     margin-left: 100px;
     margin-right: 67px;
     gap:150px;
+    margin-bottom: 80px;
 }
 .mont{
     width: 540px;
@@ -122,9 +123,18 @@ height: 550px;
 flex-shrink: 0;
 border-radius: 16px;
 }
-#about-us{
+.body head{
     color: #131318;
     font-weight: 800;
     font-size:3rem;
 
+}
+.about-us-pra{
+    color: rgba(19, 19, 24, 0.70);
+font-size: 1rem;
+font-weight: 400;
+line-height: 26px;
+}
+.Destination{
+    text-align: center;
 }
