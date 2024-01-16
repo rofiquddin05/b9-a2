@@ -138,3 +138,21 @@ line-height: 26px;
 .Destination{
     text-align: center;
 }
+.row{
+    display: flex;
+    gap:24px ;
+    width: 573px;
+    height: 300px;
+    border-radius: 16px;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 67px;
+    margin-bottom: 24px;
+}
+.row-img{
+    display: flex;
+    gap: 24px ;  
+    margin-left: 100px;
+    margin-right: 67px;
+}
