@@ -145,7 +145,7 @@ line-height: 26px;
     height: 300px;
     border-radius: 16px;
     align-items: center;
-    margin-top: 80px;
+    margin-top: 50px;
     margin-left: 100px;
     margin-right: 67px;
     margin-bottom: 24px;
@@ -155,4 +155,26 @@ line-height: 26px;
     gap: 24px ;  
     margin-left: 100px;
     margin-right: 67px;
+    margin-bottom: 24px;
+}
+.row-imgs{
+    display: flex;
+    gap: 24px ;  
+    margin-left: 100px;
+    margin-right: 67px;
+}
+.why-choose-us{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 120px;
+    margin-top: 50px;
+}
+.hotelservice{
+    display: flex;
+    gap: 600px;
+}
+h3{
+    color: #131318; 
+    font-weight: 800;
+    font-size: 1.5rem;
 }
