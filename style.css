@@ -90,6 +90,7 @@ nav li a{
     gap: 24px;
     border-radius: 8px;
     background: rgba(255, 255, 255, 0.30);
+
 }
 .search{
     width: 174px;
@@ -97,4 +98,33 @@ height: 52px;
 flex-shrink: 0;
 border-radius: 8px;
 background: #FF5400;
+border: none;
+color: #FFF;
+}
+#Where ,#when ,#select{
+    width: 174px;
+height: 52px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+border: none;
+}
+.about-us{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 67px;
+    gap:150px;
+}
+.mont{
+    width: 540px;
+height: 550px;
+flex-shrink: 0;
+border-radius: 16px;
+}
+#about-us{
+    color: #131318;
+    font-weight: 800;
+    font-size:3rem;
+
 }
