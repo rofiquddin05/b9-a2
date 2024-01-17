@@ -344,9 +344,53 @@ left: 410px;
             gap:50px;
             margin-bottom: 80px;
         }
+        .row{
+            display: flex;
+            flex-direction: column;
+            gap:16px ;
+            width: 573px;
+            height: 300px;
+            border-radius: 16px;
+            align-items: center;
+            margin-top: 50px;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 330px;
+        }
+        .row-img{
+            display: flex;
+            flex-direction: column;
+            border-radius: 16px;
+            align-items: center;
+           
+       
+        }
+        .row-img  img{
+            width: 573px;
+            height: 300px;
+            border-radius: 16px;
+            align-items: center;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .row-imgs{
+            display: flex;
+            flex-direction: column;
+            margin-bottom:50px ;
+            margin-left: 20px;
+        }
+        .row-imgs img{
+            width: 573px;
+            height: 300px;
+            border-radius: 16px;
+            align-items: center;
+            margin-right: 20px;
+        }
+        }
 
 
-}
+
+
 @media only screen and (min-width: 601px) {
        .bars{
         display: none;
