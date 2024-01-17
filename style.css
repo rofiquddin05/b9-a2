@@ -120,7 +120,6 @@ border: none;
 .mont{
     width: 540px;
 height: 550px;
-flex-shrink: 0;
 border-radius: 16px;
 }
 .body head{
@@ -177,4 +176,53 @@ h3{
     color: #131318; 
     font-weight: 800;
     font-size: 1.5rem;
+}
+.Newsletter{
+    display: flex;
+    margin-left: 110px;
+    margin-right: 100px;
+    align-items: center;
+    margin-bottom: 100px ;
+    border-radius: 16px;
+    gap: 40px;
+    margin-top: 60px ;
+}
+.form{
+    width: 474px;
+height: 380px;
+border-radius: 16px;
+border: 1px solid #FF5400;
+display: flex;
+flex-direction: column;
+padding-left: 40px;
+padding-right: 40px;
+padding-top: 25px;
+gap:10px;
+margin-top: 35px ;
+margin-bottom: 40px;
+padding-bottom: 15px;
+}
+.img-8{
+    width: 672px;
+height: 422px;
+margin-bottom: 40px;
+margin-top:25px;
+}
+.line-1{
+    width: 393px;
+height: 1px;
+background-color: #FF5400;
+}
+.email , .name , .sub{
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+border: none;
+}
+.sub{
+    color: #FFF;
+    font-size: 1.2erm;
+    font-weight: 800;
+    background: #FF5400;
+
 }
